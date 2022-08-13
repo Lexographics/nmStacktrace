@@ -23,7 +23,7 @@ Files should look like this.
 ```
 
 ### Threading
-nmStacktrace doesnt use threads by default. You can
+nmStacktrace doesn't use threads by default. You can
 ```cpp
     #define NMST_USE_THREADS
 ```
